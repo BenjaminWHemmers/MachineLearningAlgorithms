@@ -1,2 +1,2 @@
 # MachineLearningAlgorithms
-Machine learning algorithms for Wireshark packet capture analysis.
+A collection of machine learning algorithms for Wireshark packet capture analysis.
